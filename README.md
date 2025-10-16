@@ -1,6 +1,6 @@
 # widget_presentation
 
-A new Flutter project.
+This Project Displays the SliverAppBar and some of the features it contains
 
 ## Getting Started
 
