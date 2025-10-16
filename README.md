@@ -2,9 +2,9 @@
 
 This Project Displays the SliverAppBar and some of the features it contains
 
-## Getting Started
+Original code was gotten from Mitch Koko (https://www.youtube.com/watch?v=qYnVdXCU1M0)
 
-This project is a starting point for a Flutter application.
+A sliverAppBar allows you to have a dynamic UI and a better user experience.
 
 A few resources to get you started if this is your first Flutter project:
 
